@@ -1,0 +1,96 @@
+{
+  "contacts": [
+    {
+      "id": "WgyhStOo",
+      "name": "Vikram Varma",
+      "company": "Mvsr",
+      "email": "vikramvarma@gmail.com",
+      "title": "student",
+      "mobile": "9989999888",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.awAiMS1BCAQ2xS2lcdXGlwHaHH&pid=Api&P=0&h=180",
+      "groupId": 2
+    },
+    {
+      "id": "fgSStOo",
+      "name": "Arun sai",
+      "company": "Tekreant",
+      "email": "arunsai@gmail.com",
+      "title": "Developer",
+      "mobile": "9989999666",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.wRtvON_8JKRQghdROw5QvQHaHa&pid=Api&P=0&h=180",
+      "groupId": "1"
+    },
+    {
+      "id": "WvSStsd",
+      "name": "Rohan",
+      "company": "Tekreant",
+      "email": "rohan@gmail.com",
+      "title": "tester",
+      "mobile": 9989664448,
+      "photo": "https://tse3.mm.bing.net/th?id=OIP.k7dE2dftQijg3KbpTyIObAHaHa&pid=Api&P=0&h=180",
+      "groupId": "1"
+    },
+    {
+      "name": "Jeevan",
+      "company": "home",
+      "email": "jeevan@gmail.com",
+      "title": "",
+      "mobile": 9398292717,
+      "photo": "https://tse1.mm.bing.net/th?id=OIP.iPT2f-NkI6nwmeMnV_YazAHaHa&pid=Api&P=0&h=180",
+      "groupId": 3,
+      "id": "2kD7OsN"
+    },
+    {
+      "name": "Bunny",
+      "company": "mvsr",
+      "email": "bunny@gmail.com",
+      "title": "",
+      "mobile": 66429553647,
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.mDv826UG65YB8vFcW1SB3QHaHa&pid=Api&P=0&h=180",
+      "groupId": 2,
+      "id": "O7zobVh"
+    },
+    {
+      "name": "yjty",
+      "company": "fgj",
+      "email": "ytyi@dffhd",
+      "title": "",
+      "mobile": 68658,
+      "photo": "tyjyt",
+      "groupId": 2,
+      "id": "pSqGF_U"
+    },
+    {
+      "name": "dgfhfh",
+      "company": "gfht",
+      "email": "dghgg@fjh",
+      "title": "",
+      "mobile": 464654,
+      "photo": "https://tse4.explicit.bing.net/th?id=OIP.pWfniQH4uw9ipOOCenAPnAHaFO&pid=Api&P=0&h=180",
+      "groupId": 1,
+      "id": "FXJEns6"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Colleague"
+    },
+    {
+      "id": 2,
+      "name": "Friend"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Service"
+    },
+    {
+      "id": 5,
+      "name": "Social"
+    }
+  ]
+}
